@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Monardo's Blog</title>
+		title:Monardo's Blog
 <link rel="shortcut icon" href="Favicon.png" type="image/png">
 		</head>
 	<body>
