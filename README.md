@@ -1,4 +1,3 @@
-This is my blog, so yeah.
+This is my basic retro-style website that I am working on.
 <br/>
-It's not that good, but it is also kind of neat.
-<br/>💶💶💶💶💶 Take my money.
+It is still very basic, so I hope to expand it into my main website by next month.
