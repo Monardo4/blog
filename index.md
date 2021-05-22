@@ -16,6 +16,10 @@
 	|
 &nbsp;
 <a href = "https://www.youtube.com/channel/UC8Rhqm5mXhVrYVSqC06dNzQ/featured" target = "_self">Youtube</a>
+	&nbsp;
+	|
+&nbsp;
+<a href = "https://3box.io/0xccb90283d816dc38175368ba8b1242933fee8083/wall" target = "_self">3box</a>
 	<br/>
 	<br/>
 	<br/>
