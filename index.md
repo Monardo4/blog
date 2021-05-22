@@ -11,7 +11,7 @@
 &nbsp;
 	|
 &nbsp;
-<a href = "scratch.mit.edu" target = "_self">Github</a>
+<a href = "https://github.com/Monardo4" target = "_self">Github</a>
 	&nbsp;
 	|
 &nbsp;
