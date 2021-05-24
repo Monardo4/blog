@@ -24,7 +24,7 @@
 &nbsp;
 <a href = "	|
 &nbsp;
-<a href = "g" target = "_self">All Profiles</a>
+<a href = "profiles.html" target = "_self">All Profiles</a>
 	&nbsp;
 	<br/>
 	<br/>
