@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Monardo's Blog</title>	
-<link rel="shortcut icon" href="perfect icon.png" type="image/png">
+<link rel="shortcut icon" href="my cool ethereum image.png" type="image/png">
 		</head>
 	<body>
 <center>
