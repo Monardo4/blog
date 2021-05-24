@@ -50,7 +50,7 @@ Here is some of my work:
 <br/>
   <a href = "file:///home/chronos/u-a985748e6821754c8800cd8637bbeb81d3d4aa81/MyFiles/Downloads/Chicken%20Pot%20Pie%20Clicker.html" target = "_self">Chicken Pot Pie Clicker</a>
 <br/>
-<a href = "file:///home/chronos/u-a985748e6821754c8800cd8637bbeb81d3d4aa81/MyFiles/Downloads/TheCompleteEdition%20(1).html" target = "_self">treasure for fishes</a>
+<a href = "https://monardo4.github.io/treasureforfishes/" target = "_self">treasure for fishes</a>
 <br/>
 <a href = "file:///home/chronos/u-a985748e6821754c8800cd8637bbeb81d3d4aa81/MyFiles/Downloads/Html%20files/The%20Lonely%20Page.html" target = "_self">The Loneliness Site</a>
 <br/>
