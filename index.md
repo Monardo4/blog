@@ -22,7 +22,7 @@
 <a href = "https://3box.io/0xccb90283d816dc38175368ba8b1242933fee8083/wall" target = "_self">3Box</a>
 		|
 &nbsp;
-<a href = "	|
+	|
 &nbsp;
 <a href = "profiles.html" target = "_self">All Profiles</a>
 	&nbsp;
