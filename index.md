@@ -7,7 +7,7 @@
 <center>
 	<br/>
 <p style="font-size:30px;">Monardo's Blog<p/>
-<a href = "https://scratch.mit.edu/users/chickenpotpie234/" target = "_self">Scratch</a>
+<a href = "Vexillium.html" target = "_self">Vexillology</a>
 &nbsp;
 	|
 &nbsp;
