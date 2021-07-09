@@ -1,4 +1,5 @@
 <html>
+<!-- Hello to anyone who has happened to look at my incredibly simple code!  Feel free to use this if you don't have much experience, (like me!) just copy and paste it, I don't mind. -->
 	<head>
 		<title>Monardo's Blog</title>	
 <link rel="shortcut icon" href="ethcircle.png" type="image/png">
