@@ -12,20 +12,11 @@
 &nbsp;
 	|
 &nbsp;
-<a href = "https://github.com/Monardo4" target = "_self">Github</a>
-	&nbsp;
-	|
-&nbsp;
-<a href = "https://www.youtube.com/channel/UC8Rhqm5mXhVrYVSqC06dNzQ/featured" target = "_self">Youtube</a>
-	&nbsp;
-	|
-&nbsp;
-<a href = "https://3box.io/0xccb90283d816dc38175368ba8b1242933fee8083/wall" target = "_self">3Box</a>
-		
+<a href = "log.html" target = "_self">Log</a>
 &nbsp;
 	|
 &nbsp;
-<a href = "profiles.html" target = "_self">All Profiles</a>
+<a href = "profiles.html" target = "_self">Accounts</a>
 	&nbsp;
 	<br/>
 	<br/>
