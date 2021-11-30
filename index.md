@@ -50,7 +50,7 @@ Here is some of my work:
 <br/>
 <a href = "https://sites.google.com/view/headsupsevenup" target = "_self">Heads up, seven up</a>
 <br/>
-<a href = "wallofshame" target = "_self">The Museum of Shame</a>
+<a href = "wallofshame.html" target = "_self">The Museum of Shame</a>
 <br/>
 <a href = "file:///home/chronos/u-a985748e6821754c8800cd8637bbeb81d3d4aa81/MyFiles/Downloads/Woah.html" target = "_self">Stuff I should be ashamed of</a>
 <br/>
